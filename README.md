@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 **🔭 Currently Working On:**  
-Full-stack web applications using JavaScript, Node.js, Express, MongoDB, and EJS, with a strong focus on CRUD systems and responsive UI development using HTML, CSS, and Tailwind CSS.
+Full-stack web applications using JavaScript, Node.js, Express, MongoDB, and EJS.
 
 **👯 Open to Collaboration:**  
 Frontend, backend, and full-stack web projects; JavaScript/Node.js open-source contributions; beginner-friendly DevOps and cloud projects.
