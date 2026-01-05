@@ -1,3 +1,33 @@
+## 💫 About Me
+
+**🔭 Currently Working On:**  
+Full-stack web applications using JavaScript, Node.js, Express, MongoDB, and EJS, with a strong focus on CRUD systems and responsive UI development using HTML, CSS, and Tailwind CSS.
+
+**👯 Open to Collaboration:**  
+Frontend, backend, and full-stack web projects; JavaScript/Node.js open-source contributions; beginner-friendly DevOps and cloud projects.
+
+**🤝 Seeking Help With:**  
+Backend system architecture, DevOps workflows (CI/CD, Docker, cloud deployment), and writing clean, scalable, production-ready code.
+
+**🌱 Currently Learning:**  
+Advanced JavaScript, Node.js & Express (real-world patterns), SQL & PL/SQL, WordPress, and cloud & DevOps fundamentals.
+
+**💬 Ask Me About:**  
+JavaScript, Node.js & Express, CRUD applications, HTML/CSS/Tailwind, SQL & DBMS concepts.
+
+**⚡ Fun Fact:**  
+Ask me 😄
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** C, JavaScript, SQL  
+**Frontend:** HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code  
+**Learning Focus:** DevOps, Cloud Engineering
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sachinsk4048&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
