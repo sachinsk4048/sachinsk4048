@@ -7,7 +7,7 @@ Full-stack web applications using JavaScript, Node.js, Express, MongoDB, and EJS
 Frontend, backend, and full-stack web projects; JavaScript/Node.js open-source contributions; beginner-friendly DevOps and cloud projects.
 
 **🤝 Seeking Help With:**  
-Backend system architecture, DevOps workflows (CI/CD, Docker, cloud deployment), and writing clean, scalable, production-ready code.
+Backend system architecture, DevOps workflows, and writing clean, scalable, production-ready code.
 
 **🌱 Currently Learning:**  
 Advanced JavaScript, Node.js & Express (real-world patterns), SQL & PL/SQL, WordPress, and cloud & DevOps fundamentals.
